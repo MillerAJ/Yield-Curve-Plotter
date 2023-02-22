@@ -6,5 +6,7 @@ Fetches yield curve data from treasury.gov and plots yield curves. Currently loo
 Currently working on moving legend outside of the graph. Then will add a way to look up individual/specific dates.
 
 Exmaple Plot:
+
+
 ![image](https://user-images.githubusercontent.com/9644656/220500372-fba8b173-8bb2-4151-9274-ab30b8976f88.png)
 
