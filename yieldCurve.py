@@ -37,7 +37,6 @@ def chartRates(years, dataPoints):
     plotDf = pd.DataFrame(plotData, columns=dfColumns)
     #print(plotDf.to_string())
     dates = list(plotDf["Date"])
-    print(dates)
     plotDf = plotDf.drop("Date", axis=1)
     #print(plotDf.to_string())
     rows = len(plotDf.index)
